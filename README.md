@@ -9,7 +9,7 @@ Leverage the power of AI to deliver meaningful, personalized feedback to student
 This system is built as a robust, modular pipeline:
 
 1. **Data Preprocessing**
-   Cleans, encodes, and transforms raw educational data (e.g., ASSISTments, Portuguese Student dataset, etc.) into structured, model-ready features.
+   Cleans, encodes, and transforms raw educational data (e.g.Portuguese Student dataset, etc.) into structured, model-ready features.
 
 2. **Predictive Model Training**
    Trains a classical ML model (e.g., Random Forest) to predict student performance and identify learning gaps.
@@ -26,9 +26,6 @@ This system is built as a robust, modular pipeline:
 ---
 
 ## 📚 Dataset Information
-
-* **ASSISTments Dataset:**
-  Large-scale student interaction logs from an intelligent tutoring system.
 
 * **Education Dialogue Dataset:**
   Authentic teacher-student conversations for realistic LLM fine-tuning.
@@ -121,7 +118,7 @@ python src/evaluation.py
 
 ## 🧠 LLM Fine-Tuning (Kaggle Recommended)
 
-* Upload `src/fine_tune_llm.py` and the Education Dialogue Dataset to Kaggle.
+* Upload `src/fine_tune_llm.ipynb` and the Education Dialogue Dataset to Kaggle.
 * Run the script in a GPU-accelerated Kaggle notebook.
 * Download the fine-tuned model adapters for local deployment.
 
