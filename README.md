@@ -54,7 +54,7 @@ project-root/
 ├── src/
 │   ├── data_preprocessing.py
 │   ├── train_predictive_model.py
-│   ├── fine_tune_llm.py
+│   ├── fine_tune_llm.ipynb           # ran in Kaggle GPU
 │   ├── feedback_generator.py
 │   ├── pipeline_integration.py
 │   └── evaluation.py
