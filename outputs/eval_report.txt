@@ -1,0 +1,35 @@
+======================================================================
+🎓 AUTOMATED STUDENT FEEDBACK SYSTEM - EVALUATION REPORT
+======================================================================
+
+📊 DATASET: Portuguese Student Performance
+📅 EVALUATION DATE: 2025-06-27T23:29:10.841167
+📈 SAMPLE SIZE: 3 students
+
+🎯 OVERALL SYSTEM SCORE: 0.847/1.000
+⭐ SYSTEM RATING: Excellent
+
+🤖 ML MODEL PERFORMANCE:
+   • Target Variable: G3_y
+   • R² Score: 0.8002
+   • RMSE: 1.3147
+   • Features Used: 61
+   • Grade Range: 0.9 - 17.1
+
+💬 FEEDBACK QUALITY:
+   • Total Generated: 3
+   • Success Rate: 3/3
+   • Avg Length: 94.3 words
+   • Word Range: 33-159 words
+   • Positive Tone: 66.67%
+   • Actionable Content: 100.00%
+   • Encouraging Tone: 100.00%
+   • Educational Context: 100.00%
+   • Avg Predicted Grade: 11.5/20
+
+📝 SAMPLE FEEDBACK:
+   Let's start by discussing your current level of understanding and areas where you need more practice or clarification. Then we can work together to identify effective study habits that suit your learn...
+
+💡 RECOMMENDATIONS:
+   1. System performance is satisfactory for Portuguese student feedback generation
+======================================================================
