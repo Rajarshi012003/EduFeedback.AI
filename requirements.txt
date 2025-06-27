@@ -1,0 +1,18 @@
+# Core ML and Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Deep Learning and Transformers
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+accelerate>=0.20.0
+bitsandbytes>=0.39.0
+
+# Evaluation (optional but recommended)
+nltk>=3.8
+rouge-score>=0.1.2
+
+# Utilities
+tqdm>=4.64.0
