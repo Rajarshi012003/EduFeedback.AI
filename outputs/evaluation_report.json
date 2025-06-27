@@ -1,0 +1,61 @@
+{
+  "evaluation_metadata": {
+    "timestamp": "2025-06-27T23:29:10.841167",
+    "dataset_type": "Portuguese Student Performance",
+    "ml_model_evaluated": true,
+    "feedback_evaluated": true,
+    "sample_size": 3
+  },
+  "ml_model_performance": {
+    "target_column": "G3_y",
+    "num_samples": 382,
+    "num_features": 61,
+    "mse": 1.7285094945339292,
+    "rmse": 1.314727916541643,
+    "mae": 0.9608342979341707,
+    "r2": 0.800239161234081,
+    "mean_actual": 12.515706806282722,
+    "mean_predicted": 12.638489644635005,
+    "prediction_range": {
+      "min": 0.935,
+      "max": 17.08589803088484
+    }
+  },
+  "feedback_quality": {
+    "total_feedback": 3,
+    "successful_feedback": 3,
+    "avg_word_count": 94.33333333333333,
+    "avg_sentence_count": 7.333333333333333,
+    "word_count_range": {
+      "min": 33,
+      "max": 159
+    },
+    "content_quality": {
+      "positive_feedback_ratio": 0.6666666666666666,
+      "actionable_feedback_ratio": 1.0,
+      "encouraging_feedback_ratio": 1.0,
+      "educational_feedback_ratio": 1.0
+    },
+    "performance_distribution": {
+      "Average": 1,
+      "Below Average": 2
+    },
+    "grade_analysis": {
+      "avg_predicted_grade": 11.500451123636084,
+      "grade_range": {
+        "min": 10.194885075739688,
+        "max": 12.720178365735253
+      }
+    },
+    "sample_feedback": "Let's start by discussing your current level of understanding and areas where you need more practice or clarification. Then we can work together to identify effective study habits that suit your learning style.\","
+  },
+  "overall_assessment": {
+    "ml_component_score": 0.800239161234081,
+    "feedback_component_score": 0.9166666666666666,
+    "overall_system_score": 0.8468101634071152,
+    "system_rating": "Excellent",
+    "recommendations": [
+      "System performance is satisfactory for Portuguese student feedback generation"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "0": {
+    "performance": "Below Average",
+    "prediction_score": 10.194885075739688,
+    "weak_areas": [],
+    "feedback": "Let's start by discussing your current level of understanding and areas where you need more practice or clarification. Then we can work together to identify effective study habits that suit your learning style.\",",
+    "status": "success",
+    "student_id": 0,
+    "timestamp": "2025-06-27T23:08:43.742032"
+  },
+  "1": {
+    "performance": "Average",
+    "prediction_score": 12.720178365735253,
+    "weak_areas": [],
+    "feedback": "It's great to hear that you enjoy the subject! Let's discuss your areas for improvement. Firstly, I noticed that you tend to struggle with complex grammar concepts. To improve in this area, try breaking down sentences into smaller parts and practicing them regularly. Additionally, seeking help from a teacher or tutor can be beneficial.\"\"I agree with your suggestion about practicing more. Regular revision will reinforce what you have learned.\",\n\n\"You also mentioned being overwhelmed by the amount of material covered in class. One way to combat this is to create a study schedule and break it up into manageable chunks. This will make it easier for you to focus on one topic at a time.\",\n\",\"\"To further develop your vocabulary skills, consider using flashcards or creating word associations. These techniques can help solidify new words in your mind and make learning more engaging.\",\n\"Finally, remember that practice makes perfect. Keep putting in the effort, even when it feels challenging",
+    "status": "success",
+    "student_id": 1,
+    "timestamp": "2025-06-27T23:16:52.842891"
+  },
+  "2": {
+    "performance": "Below Average",
+    "prediction_score": 11.586289929433313,
+    "weak_areas": [],
+    "feedback": "Thank you for your honesty. Let's focus on the areas that need improvement. One strategy I recommend is practicing verb conjugation regularly to strengthen your grammar skills. Additionally, reading authentic texts can help improve comprehension and vocabulary acquisition. Keep in mind that learning a language requires consistent practice and patience. Don't be discouraged if it takes time to master certain concepts. We will work together to set goals and monitor your progress.\n\", \"Topic\": \"Language Arts\", \"Student Rating\": \"Average\", \"Teacher Rating\": \"[Direct Instruction] [Formative Assessment]\", \"Student Reaction\": \"Positive\", \"Generated Rating\": \"\"",
+    "status": "success",
+    "student_id": 2,
+    "timestamp": "2025-06-27T23:22:56.183198"
+  },
+  "_batch_summary": {
+    "total_students": 3,
+    "successful_feedback": 3,
+    "failed_feedback": 0,
+    "success_rate": 1.0,
+    "timestamp": "2025-06-27T23:22:56.183237"
+  }
+}
